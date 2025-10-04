@@ -1,0 +1,64 @@
+{
+    "dresses": [
+        {
+            "id": 1,
+            "name": "Casual T-Shirt",
+            "price": 499,
+            "loadableImageUrl": "https://4.imimg.com/data4/KS/HD/MY-718120/mens-casual-t-shirts-1000x1000.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Striped T-Shirt",
+            "price": 699,
+            "loadableImageUrl": "https://m.media-amazon.com/images/I/61B8rODkZdL._SY879_.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Plain White Shirt",
+            "price": 999,
+            "loadableImageUrl": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRWDLbzuUtSvmavsGICAoqXykCLnHML2ytpWAW-Nqr8nciqx9Pum4kxsLCLoMya-W01lAZWHzwcButVS27IgyGBgg5f87oWzrEaqKU5aw9FiSSa5raHnfDv"
+        },
+        {
+            "id": 4,
+            "name": "Formal Blue Shirt",
+            "price": 1299,
+            "loadableImageUrl": "https://assets.ajio.com/medias/sys_master/root/20240930/13wu/66fac48d260f9c41e845c004/-473Wx593H-700518897-blue-MODEL.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Denim Shirt",
+            "price": 1499,
+            "loadableImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEVi1POg8MjDKgHcuGboZw-jbSjFPYc31m2A&s"
+        },
+        {
+            "id": 6,
+            "name": "Summer One-Piece Dress",
+            "price": 1999,
+            "loadableImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1Q6HmqWNBtjN6FzXnDTWPGcXAzGgOcoyOUQ&s"
+        },
+        {
+            "id": 7,
+            "name": "Floral One-Piece",
+            "price": 2499,
+            "loadableImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlxiMGT6F1f4bYTxLdMbDgRBCNO4eaiAfT9A&s"
+        },
+        {
+            "id": 8,
+            "name": "Party Wear One-Piece",
+            "price": 2999,
+            "loadableImageUrl": "https://roseryparis.com/cdn/shop/files/formaldressforwomen-officewearonepiecebodycondressruchedlatestdesignerdressesforwomenpuffsleevesideslitpartyweardress_4.png?v=1714265119&width=1445"
+        },
+        {
+            "id": 9,
+            "name": "Oversized T-Shirt",
+            "price": 799,
+            "loadableImageUrl": "https://www.victoriassecret.in/on/demandware.static/-/Sites-vs_master_catalog/default/dw4381d9c5/large/112439033Z3G_OM_F.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Checkered Shirt",
+            "price": 1399,
+            "loadableImageUrl": "https://sassafras.in/cdn/shop/files/SFSHRT20528-1_98cc3084-3474-4f5c-9ad0-4b5979ed7276_1800x.jpg?v=1757492782"
+        }
+    ]
+}
